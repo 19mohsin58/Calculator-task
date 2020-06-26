@@ -1,0 +1,37 @@
+.Calc{
+	background-color: #343634;
+	margin: 10px auto;
+	height: 400px;
+	width: 400px;
+	justify-content: space-around;
+	border-radius: 8px;
+}
+.numberBtn{
+	background-color: #98edfa;
+	width: 90px;
+	margin : 3px;
+	border: 0px ;
+	height: 50px;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+.input{
+	width: 350px;
+	height: 60px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: cambria;
+
+}
+.equals{
+	width: 100%;
+	border: 0px ;
+	height: 50px;
+	margin-top: 10px;
+	font-size: 30px;
+	font-weight: bold;
+}
